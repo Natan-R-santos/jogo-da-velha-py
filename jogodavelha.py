@@ -1,7 +1,7 @@
 tabuleiro = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 jogador_da_vez = "X"
 def mostar_tabuleiro():
-     print(f"{tabuleiro[0]} | {tabuleiro[1]} | {tabuleiro[2]}")
+    print(f"{tabuleiro[0]} | {tabuleiro[1]} | {tabuleiro[2]}")
     print("---------")
     print(f"{tabuleiro[3]} | {tabuleiro[4]} | {tabuleiro[5]}")
     print("---------")
