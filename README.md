@@ -1,0 +1,2 @@
+Este jogo foi um desafio de um amigo para ter uma visão de programar e conseguir sair do zero e montar um código legivel,tive um pouco de dificuldade para entender os indices porem deu certo e tive um entendimento melhor da coisa.
+Pensamos como um jogo humano e como vamo escrever isso em códigos,isso nada mais é que lógica de programação cada um tem um jeito de pensar e criar as coisas,esse foi o meu vou pensar em outras formas tambem de criar o mesmo!
