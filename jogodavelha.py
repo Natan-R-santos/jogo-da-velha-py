@@ -6,6 +6,7 @@ def mostar_tabuleiro():
     print(f"{tabuleiro[3]} | {tabuleiro[4]} | {tabuleiro[5]}")
     print("---------")
     print(f"{tabuleiro[6]} | {tabuleiro[7]} | {tabuleiro[8]}")
+
 def verificar_vitoria(tabuleiro, combinacoes_de_vitoria,jogador_da_vez):
     for combinacao in combinacoes_de_vitoria:
         if (tabuleiro[combinacao[0]] == jogador_da_vez and
